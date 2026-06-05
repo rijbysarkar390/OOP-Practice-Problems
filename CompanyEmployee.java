@@ -59,7 +59,7 @@ class ContractEmployee extends Employee{
         System.out.println(ca);
     }
 }
-public class TypesOfEmployee{
+public class CompanyEmployee{
     public static void main(String[] args){
         FullTimeEmployee fte = new FullTimeEmployee("A", 2023, "English", 30000);
         PartTimeEmployee pte = new PartTimeEmployee("B",2024,"Bangla",500,6);
